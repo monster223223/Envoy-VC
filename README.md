@@ -135,11 +135,11 @@ const vedant = {
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🧠 Obsidian - An IDE for your Brain](https://dev.to/envoy_/obsidian-an-ide-for-your-brain-1bn7)
 - [🛸 Learn Blockchains by Building One In Python](https://dev.to/envoy_/learn-blockchains-by-building-one-in-python-2kb3)
 - [Blockchain App Developer Roadmap ✨✨✨](https://dev.to/envoy_/blockchain-app-developer-roadmap-31p5)
 - [AWESOME WINDOWS TOOLS](https://dev.to/envoy_/awesome-windows-tools-320k)
 - [Awesome Clones](https://dev.to/envoy_/awesome-clones-32l8)
-- [Best Websites Every Programmer Should Visit](https://dev.to/envoy_/best-websites-every-programmer-should-visit-540a)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -197,20 +197,20 @@ const vedant = {
       <a href="https://github.com/Zorono">[BR]John_Magdy</a>
     </td>
     <td align="center">
-      <a href="https://github.com/blacky-yg">
-        <img src="https://avatars2.githubusercontent.com/u/49866160" width="100px;" alt="blacky-yg"/>
-      </a>
-      <br />
-      <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/marioarl">
         <img src="https://avatars2.githubusercontent.com/u/81307784" width="100px;" alt="marioarl"/>
       </a>
       <br />
       <a href="https://github.com/marioarl">Mario Augusto Lima</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/blacky-yg">
+        <img src="https://avatars2.githubusercontent.com/u/49866160" width="100px;" alt="blacky-yg"/>
+      </a>
+      <br />
+      <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
     </td>
     <td align="center">
       <a href="https://github.com/pierrete">
@@ -303,12 +303,11 @@ const vedant = {
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     5 hrs 19 mins   ███████████████▒░░░░░░░░░   60.87 %
-CSS          2 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   28.01 %
-YAML         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Python       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Markdown   4 hrs 17 mins   ████████████████████▓░░░░   82.21 %
+YAML       31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Python     23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+CSS        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
