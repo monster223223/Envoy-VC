@@ -2,7 +2,7 @@ name: lastfm-to-markdown
 
 on:
   schedule:
-    - cron: '2 0 * * *'
+    - cron: "2 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
           INCLUDE_LINK: true
-          IMAGE_COUNT: 5
+          IMAGE_COUNT: 14
       - name: commit changes
         continue-on-error: true
         run: |
