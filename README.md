@@ -303,8 +303,7 @@ const vedant = {
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   34 mins         ████████████████████████▒   97.09 %
-CSS        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
