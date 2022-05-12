@@ -138,7 +138,7 @@ const vedant = {
 - [🪐 Web3 Glossary](https://dev.to/envoy_/web3-glossary-5699)
 - [🧠 Obsidian - An IDE for your Brain](https://dev.to/envoy_/obsidian-an-ide-for-your-brain-1bn7)
 - [🛸 Learn Blockchains by Building One In Python](https://dev.to/envoy_/learn-blockchains-by-building-one-in-python-2kb3)
-- [Blockchain App Developer Roadmap ✨✨✨](https://dev.to/envoy_/blockchain-app-developer-roadmap-31p5)
+- [✨ Blockchain App Developer Roadmap](https://dev.to/envoy_/blockchain-app-developer-roadmap-31p5)
 - [AWESOME WINDOWS TOOLS](https://dev.to/envoy_/awesome-windows-tools-320k)
 <!-- BLOG-POST-LIST:END -->
 
