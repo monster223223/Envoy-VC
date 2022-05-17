@@ -199,7 +199,110 @@ const vedant = {
 ## ✨ My Followers
 
 <!--START_SECTION:top-followers-->
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Dev-HideyukiTakahashi">
+        <img src="https://avatars2.githubusercontent.com/u/76458498" width="100px;" alt="Dev-HideyukiTakahashi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dev-HideyukiTakahashi">Hideyuki Takahashi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Bornunique911">
+        <img src="https://avatars2.githubusercontent.com/u/69379200" width="100px;" alt="Bornunique911"/>
+      </a>
+      <br />
+      <a href="https://github.com/Bornunique911">Bornunique911</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Amarjit-ph">
+        <img src="https://avatars2.githubusercontent.com/u/28795297" width="100px;" alt="Amarjit-ph"/>
+      </a>
+      <br />
+      <a href="https://github.com/Amarjit-ph">Amarjit Pheiroijam</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OxygenXXX">
+        <img src="https://avatars2.githubusercontent.com/u/82214314" width="100px;" alt="OxygenXXX"/>
+      </a>
+      <br />
+      <a href="https://github.com/OxygenXXX">Haruka Nakano</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bglamadrid">
+        <img src="https://avatars2.githubusercontent.com/u/68207359" width="100px;" alt="bglamadrid"/>
+      </a>
+      <br />
+      <a href="https://github.com/bglamadrid">Benjamin La Madrid</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Zorono">
+        <img src="https://avatars2.githubusercontent.com/u/19735243" width="100px;" alt="Zorono"/>
+      </a>
+      <br />
+      <a href="https://github.com/Zorono">[BR]John_Magdy</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/marioarl">
+        <img src="https://avatars2.githubusercontent.com/u/81307784" width="100px;" alt="marioarl"/>
+      </a>
+      <br />
+      <a href="https://github.com/marioarl">Mario Augusto Lima</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/blacky-yg">
+        <img src="https://avatars2.githubusercontent.com/u/49866160" width="100px;" alt="blacky-yg"/>
+      </a>
+      <br />
+      <a href="https://github.com/blacky-yg">Hamidou TESSILIMI</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pierrete">
+        <img src="https://avatars2.githubusercontent.com/u/97007642" width="100px;" alt="pierrete"/>
+      </a>
+      <br />
+      <a href="https://github.com/pierrete">Pamela Rod</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vicbarkfeld">
+        <img src="https://avatars2.githubusercontent.com/u/82127044" width="100px;" alt="vicbarkfeld"/>
+      </a>
+      <br />
+      <a href="https://github.com/vicbarkfeld">Victoria Barkfeld</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ericasrafael">
+        <img src="https://avatars2.githubusercontent.com/u/91800929" width="100px;" alt="ericasrafael"/>
+      </a>
+      <br />
+      <a href="https://github.com/ericasrafael">Erica Rafael</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/liesauer">
+        <img src="https://avatars2.githubusercontent.com/u/8676741" width="100px;" alt="liesauer"/>
+      </a>
+      <br />
+      <a href="https://github.com/liesauer">L!εsAμεr</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nikoescobal">
+        <img src="https://avatars2.githubusercontent.com/u/62937819" width="100px;" alt="nikoescobal"/>
+      </a>
+      <br />
+      <a href="https://github.com/nikoescobal">Nikolas Escobal</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Camargovf">
+        <img src="https://avatars2.githubusercontent.com/u/59845047" width="100px;" alt="Camargovf"/>
+      </a>
+      <br />
+      <a href="https://github.com/Camargovf">Valdeir Camargo</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
