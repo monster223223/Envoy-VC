@@ -24,7 +24,6 @@
 <a href="https://steamcommunity.com/profiles/76561199077181432/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
-## <br><br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="200px">
 
