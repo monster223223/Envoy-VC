@@ -11,7 +11,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Blockchain+Enthusiast!;Currently+Learning+Solidity">
 </p>
 
----
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
@@ -25,7 +24,7 @@
 <a href="https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="200px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 ## I'm a Student!!
 
@@ -35,7 +34,7 @@
 - ⚡ Fun fact: I love to play games
   <br>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="200px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 <br>
 
