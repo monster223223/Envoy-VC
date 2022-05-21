@@ -327,3 +327,12 @@ const vedant = {
 <img src="./metrics.plugin.achievements.svg">
 
 </td></tr></table>
+
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
