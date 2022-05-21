@@ -145,7 +145,7 @@ const vedant = {
 
 </td><td valign="top" width="50%">
 
-<img src="./stargazers.svg" >
+<img src="./metrics.plugin.stargazers.svg" >
 
 </td></tr></table>
 
