@@ -3,7 +3,7 @@
 <div style="text-align: right">
 </div>
 
-# Hi there, I'm Vedant <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# Hi there, I'm Vedant <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-guy.gif" width="75">
 
 <a href="https://app.daily.dev/Envoy_"><img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="350" alt="Vedant Chainani's Dev Card"/></a>
 
@@ -75,14 +75,14 @@ const vedant = {
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
@@ -93,12 +93,12 @@ const vedant = {
 ## Backend
 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
@@ -111,7 +111,7 @@ const vedant = {
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 </div>
@@ -127,24 +127,25 @@ const vedant = {
 
 ## 📊 Github Stats
 
-<table><tr><td valign="top" width="55%">
+<table><tr><td valign="top" width="50%">
 
 <br>
 
-![Stats Overview](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/generated/languages.svg)
+![Metrics](https://metrics.lecoq.io/Envoy-VC?template=classic&base.community=0&base.repositories=0&base.metadata=0&base.indepth=false&config.timezone=Asia%2FCalcutta)
 
-</td><td valign="top" width="55%">
+</td><td valign="top" width="50%">
 
-## 📕 Latest Blog Posts
+<img src="https://metrics.lecoq.io/Envoy-VC?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta" height=300 >
 
-<!-- BLOG-POST-LIST:START -->
-- [🔗 Blockchain Basics](https://dev.to/envoy_/blockchain-basics-2j2d)
-- [🪐 Web3 Glossary](https://dev.to/envoy_/web3-glossary-5699)
-- [🧠 Obsidian - An IDE for your Brain](https://dev.to/envoy_/obsidian-an-ide-for-your-brain-1bn7)
-- [🛸 Learn Blockchains by Building One In Python](https://dev.to/envoy_/learn-blockchains-by-building-one-in-python-2kb3)
-- [✨ Blockchain App Developer Roadmap](https://dev.to/envoy_/blockchain-app-developer-roadmap-31p5)
-<!-- BLOG-POST-LIST:END -->
+</td></tr></table>
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://metrics.lecoq.io/Envoy-VC?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base.indepth=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FCalcutta" height="">
+
+</td><td valign="top" width="50%">
+
+<img src="./stargazers.svg" >
 
 </td></tr></table>
 
@@ -154,22 +155,6 @@ const vedant = {
 
 <br>
 
-## 🔥 Streak stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Envoy-VC)](https://git.io/streak-stats)
-
-<br>
-
----
-
-<br>
-
-<img alt="Envoy_'s Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Envoy-VC&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-<br>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
-
-<br>
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
@@ -326,7 +311,7 @@ JSON   0 secs          ░░░░░░░░░░░░░░░░░░░
 
 <br>
 
-## 🎶 Now Playing
+## <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-thomas.gif" height=50> Now Playing
 
 <br>
 
