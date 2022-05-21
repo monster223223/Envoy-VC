@@ -131,17 +131,17 @@ const vedant = {
 
 <br>
 
-![Metrics](https://metrics.lecoq.io/Envoy-VC?template=classic&base.community=0&base.repositories=0&base.metadata=0&base.indepth=false&config.timezone=Asia%2FCalcutta)
+<img src="./metrics.plugin.overview.svg">
 
 </td><td valign="top" width="50%">
 
-<img src="https://metrics.lecoq.io/Envoy-VC?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta" height=300 >
+<img src="./metrics.plugin.isocalendar.fullyear.svg" >
 
 </td></tr></table>
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://metrics.lecoq.io/Envoy-VC?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base.indepth=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FCalcutta" height="">
+<img src="./metrics.plugin.activity.svg">
 
 </td><td valign="top" width="50%">
 

@@ -1,17 +1,28 @@
-name: Update README
-
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Recent Activity
 on:
-  schedule:
-    - cron: '*/30 * * * *'
+  # Schedule updates (each hour)
+  schedule: [{ cron: "0 * * * *" }]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-
+  push: { branches: ["master", "main"] }
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: Envoy-VC
+          template: classic
+          base: ""
+          config_timezone: Asia/Calcutta
+          plugin_activity: yes
+          plugin_activity_days: 31
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_limit: 4
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
