@@ -282,7 +282,7 @@ const vedant = {
 
 <br>
 
-<p><a href="https://www.twitter.com/Envoy_1084"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=Envoy_1084&amp;layout=wide" alt="github-readme-twitter"></a></p>
+<a href="https://www.twitter.com/Envoy_1084"><img src="./metrics.plugin.tweets.svg"></a>
 
 <br>
 
