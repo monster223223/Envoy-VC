@@ -264,11 +264,11 @@ JSON   0 secs          ░░░░░░░░░░░░░░░░░░░
       <a href="https://github.com/vicbarkfeld">Victoria Barkfeld</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ericasrafael">
-        <img src="https://avatars2.githubusercontent.com/u/91800929" width="100px;" alt="ericasrafael"/>
+      <a href="https://github.com/nikoescobal">
+        <img src="https://avatars2.githubusercontent.com/u/62937819" width="100px;" alt="nikoescobal"/>
       </a>
       <br />
-      <a href="https://github.com/ericasrafael">Erica Rafael</a>
+      <a href="https://github.com/nikoescobal">Nikolas Escobal</a>
     </td>
     <td align="center">
       <a href="https://github.com/liesauer">
@@ -278,11 +278,11 @@ JSON   0 secs          ░░░░░░░░░░░░░░░░░░░
       <a href="https://github.com/liesauer">L!εsAμεr</a>
     </td>
     <td align="center">
-      <a href="https://github.com/nikoescobal">
-        <img src="https://avatars2.githubusercontent.com/u/62937819" width="100px;" alt="nikoescobal"/>
+      <a href="https://github.com/ericasrafael">
+        <img src="https://avatars2.githubusercontent.com/u/91800929" width="100px;" alt="ericasrafael"/>
       </a>
       <br />
-      <a href="https://github.com/nikoescobal">Nikolas Escobal</a>
+      <a href="https://github.com/ericasrafael">Erica Rafael</a>
     </td>
     <td align="center">
       <a href="https://github.com/Camargovf">
