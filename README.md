@@ -155,33 +155,12 @@ const vedant = {
 
 <br>
 
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-
-</details>
+## 📊 Development Breakdown
 
 <br>
 
-![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
+<img src="./metrics.plugin.wakatime.svg" >
 
-## 📊 Weekly Development Breakdown
-
-<br>
-<br>
-
-<!--START_SECTION:waka-->
-
-```text
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
-
-<br>
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
