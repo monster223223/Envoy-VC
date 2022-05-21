@@ -311,3 +311,19 @@ const vedant = {
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
+<br>
+
+## ⚙️ Misc
+
+<br>
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+
+</td><td valign="top" width="50%">
+
+<img src="./metrics.plugin.achievements.svg">
+
+</td></tr></table>
