@@ -2,14 +2,14 @@ name: StarGazers
 on:
   schedule: [{ cron: "0 * * * *" }]
   workflow_dispatch:
-  push: { branches: ["output"] }
+  push: { branches: ["master"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: stargazers.svg
+          filename: metrics.plugin.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Envoy-VC
           template: classic
